@@ -113,7 +113,6 @@ This smart device is intended to be installed and fixed into a copper electromag
 
 <br>
 
-
 ### ✓ 🟢 [Pillowcase EMF Protection for Better Health & Sleep](https://github.com/aeonSolutions/AeonLabs-Home-Auitomation-Pillowcase-EMF-Protection-for-Better-Health-Sleep)
 
 <p align="center">
@@ -167,21 +166,6 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
   
   ### [Smart Wireless Sonic/Sound Wave Active Monitoring](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md) (soon...stay tuned!)
   ### [Smart Wireless with spectrometer microwave active Monitoring and analysis](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md) (soon...stay tuned!)
-
-<br>
-
-## Comercial Health Related Wearables 
-I recommend wearing a "Medical Grade" smartwatch when you know there's abnormal electromagnetic/photonic activity in the spaces most frequented (home, office, etc). The minimum specifications and requirements are:
-- Telemedicine, i.e., sharing of medical* data with others through the  mobile app (see smartwatch suggested below)
-- Able to upload all medical* data to a custom data repository, for instance to a dataverse (www.dataverse.org) (I haven't found one to date with this capability. Any manufacturer here willing to open-source their firmware and mobile app source code? I am willing to help and program this and other important functionalities ).
-- Ability to measure REM sleep during the night (see smartwatch suggested below)
-- App with the ability to plot data measurements in a chart (see smartwatch suggested below) for one to make instantaneous snapshots to doodle and comment when in an urgent situation or in urgent need.  
-
-For the remainder of 2023 and the first half of 2024 the OEM smartwatch I recommend is sold on Aliexpress [here](https://s.click.aliexpress.com/e/_DdOPKhh). 
-
-⚠️ **Important remarks**
-The accuracy of the smartwatch is not the most important requirement. What is important is for you to know the brand and model of all sensors built into the smartwatch.
-- Smartwatches are mainly electronic devices and are prone to electromagnetic and even photonic interference., causing temporary malfunction and incorrect sensor measurements. This is expected for this kind of device. Therefore, it is important for the user to be willing to learn and document all errors a smartwatch may produce when collecting sensor measurements and append it to any kind of abnormal event it may be happening, simply because it is, most likely, a result of some kind of wireless aggression.
 
 <br>
 
