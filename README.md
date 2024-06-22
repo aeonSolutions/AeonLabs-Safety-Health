@@ -33,7 +33,7 @@ There are 40,000 women who are persecuted and attacked per year with some device
 
 Simply, because the victim is not capable of turning off the devices that attack him/her repetitively and recurrently. All because the victim does not have a device capable of detecting and monitoring this type of invisible and wireless aggression. And as if it weren't enough, it's a mandatory condition, to have some daily record, a #LogBook, a #history of occurrences of this type of aggression, capable of serving as evidence, preferably one that can be used in "real-time" and remotely by authorities and law enforcement. 
 
-## Safety usage of the smart devices provided below
+## ⚠️ Safety usage of the smart devices provided below ⚠️
 [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
 
 The smart safety & health solutions available below, are for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, WIFI routers at home, and many more. (except those with directional beam forming technologies). This type of aggression has the characteristic to happen only during short periods of time, in the order of milliseconds or less regardless of electromagnetic radiation conditions and threshold limits of wireless networks.  
