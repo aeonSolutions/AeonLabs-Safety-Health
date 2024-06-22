@@ -89,14 +89,10 @@ If you are a Portuguese citizen can raise a complaint on the [Portuguese army we
 
 <br>
 
-### Complementary medicines are known to assist treatment and cure of these kinds of health-related problems
+### Complementary medicines 
+Complementary medicines known to assist treatment and cure of these kinds of health-related problems
+
 [continue reading here](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki/Complementary-medicines-are-known-to-assist-treatment-and-cure-of-these-kinds-of-health‐related-problems)
-
-<br>
-
-<p align="center">
-    <img height="300" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home%20Automation%20Safety%20%26%20Health/media/energy_unbalance_health.jpg">
-</p>
 
 <br>
 
