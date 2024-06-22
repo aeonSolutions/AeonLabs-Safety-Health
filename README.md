@@ -38,50 +38,7 @@ Simply, because the victim is not capable of turning off the devices that attack
 
 The smart safety & health solutions available below, are for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, WIFI routers at home, and many more. (except those with directional beam forming technologies). This type of aggression has the characteristic to happen only during short periods of time, in the order of milliseconds or less regardless of electromagnetic radiation conditions and threshold limits of wireless networks.  
 
-<p align="center">
-   <a href="https://io.adafruit.com/aeonlabs/dashboards/em-sensor-data?kiosk=true">
-      <img height="200" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/emf_data_plot.png">
-   </a> <br>
-<sup><a href="https://io.adafruit.com/aeonlabs/dashboards/em-sensor-data?kiosk=true" target="_blank">See on Adafruit.IO</a> the EMF & EMP measurements being made with a test device </sup>
-</p>
-
-Two concepts are very important to know and learn about: 
-- the **superposition of different electromagnetic waves**, its meanings, and what resulting wave and EM energy produces (for instance an energy spike that produces an instantaneous flash of light).
-- and the second concept is **wave pattern matching** to produce an EM wave with higher energy (for instance a high voltage, low amperage corona effect similar to those possible to see during a thunderstorm).
-
-These concepts and subjects can be found easily on Google and in scientific publications.   
-
-
-**The devices listed below are not able to detect wireless aggressions targeted to a person's body and individual. For instance, using some kind of beam-forming device or technologies**. For example, laser and laser-like devices and technologies. 
-
-**When installing any of the solutions provided below, take action and be conscious that the aggression/aggressor may change to other types and kinds of "wireless devices" the smart devices below are unable to detect**.  
-
-**Always use the smart devices below to connect to a public data repository with LIVE data streams. At the same time, notify the authorities immediately and provide the web address link where the public data repository can be found**. To my knowledge, data repositories based on Harvard's www.dataverse.org are currently the most suited (not ideal) for the smart solutions provided below. 
-
- :warning: **Be advised**
-
-
-Known open data repositories partially compatible with these smart devices:
-- www.dataverse.org [partial compatible] (open firmware provided here uses a dataverse repository API)
-- www.figshare.com [partial compatible]
-- www.datadryad.org [not compatible; no API]
-
-<br>
-
-<div align="center">
- Table 1 - List of data repositories with an API <br>
- 
-Cloud Host | API | Open Source
--- | -- | --
-Zonodo | ReST | Yes
-OSF | Yes | Yes
-Harvard's Dataverse | Yes | Yes
-DRYAD | No | No
-Mendeley | Yes | No
-Data in Brief: | No | No
-Scientific Data | No | No
-
-</div>
+[Continue reading ...](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki/Safety-usage-of-the-smart-devices-provided)
 
 ### Sponsors
 Most recent sponsorships made for this project were made by:
