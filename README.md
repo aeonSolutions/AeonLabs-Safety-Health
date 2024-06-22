@@ -26,6 +26,9 @@ Last update: 08-06-2024
 </p>
 
 # Safety &amp; Health
+[where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
+
+<br>
 
 "...in the United States, 40,000 women die from breast cancer each year.... "
 
@@ -33,12 +36,15 @@ There are 40,000 women who are persecuted and attacked per year with some device
 
 Simply, because the victim is not capable of turning off the devices that attack him/her repetitively and recurrently. All because the victim does not have a device capable of detecting and monitoring this type of invisible and wireless aggression. And as if it weren't enough, it's a mandatory condition, to have some daily record, a #LogBook, a #history of occurrences of this type of aggression, capable of serving as evidence, preferably one that can be used in "real-time" and remotely by authorities and law enforcement. 
 
+<br>
+
 ## ⚠️ Safety usage of the smart devices provided below ⚠️
-[where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
 
 The smart safety & health solutions available below, are for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, WIFI routers at home, and many more. (except those with directional beam forming technologies). This type of aggression has the characteristic to happen only during short periods of time, in the order of milliseconds or less regardless of electromagnetic radiation conditions and threshold limits of wireless networks.  
 
 [Continue reading ...](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki/Safety-usage-of-the-smart-devices-provided)
+
+<br>
 
 ### Sponsors
 Most recent sponsorships made for this project were made by:
@@ -65,17 +71,23 @@ If you are certain some kind of wireless aggression causes your health-related p
 
 ⚠️ **Only after you have those data measurements is advised to go to a conventional medical doctor/medicine.**
 
+<br>
 
 ### When someone is involved in some kind of EMF...
 In a simplistic way, whenever someone denies or refuses to talk about any type of distant neurosensory aggression it is because...
 [continue reading here](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki/When-someone-is-involved-in-some-kind-of-EMF...)...
 
+<br>
+
 ### Knonw symptoms of a wireless aggression
 [Continue reading here](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki/Knonw-symptoms-of-a-wireless-aggression)....
+
 <br>
 
 ### Where to complaint, where to report
 If you are a Portuguese citizen can raise a complaint on the [Portuguese army website](https://canaldadenuncia.exercito.pt/?nav=pBeIW7qH). 
+
+<br>
 
 ### Complementary medicines are known to assist treatment and cure of these kinds of health-related problems
 [continue reading here](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki/Complementary-medicines-are-known-to-assist-treatment-and-cure-of-these-kinds-of-health‐related-problems)
@@ -85,6 +97,8 @@ If you are a Portuguese citizen can raise a complaint on the [Portuguese army we
 <p align="center">
     <img height="300" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home%20Automation%20Safety%20%26%20Health/media/energy_unbalance_health.jpg">
 </p>
+
+<br>
 
 # Home Automation Safety & Health
 (list of open hardware devices I prototyped to this date)
