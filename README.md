@@ -111,44 +111,17 @@ If you are certain some kind of wireless aggression causes your health-related p
 
 ### When someone is involved in some kind of EMF...
 In a simplistic way, whenever someone denies or refuses to talk about any type of distant neurosensory aggression it is because...
-- It is a person who pays for some type of service
-- Someone paid to bully or hurt that person
-
-One way to know if someone is being attacked with some type of "invisible sparks" is to ask that person to pass an electromagnetic field detector across their body  (sold on AliExpress: https://s.click.aliexpress.com/e/_DDaoCQJ). If he or she refuses, submit a complaint to the proper authorities. In Portugal, the complaint needs to be submitted on the Portuguese Army's reporting platform 🪖.
-
-Anyone close to someone who is being attacked also suffers from ongoing aggression, although with less intensity (not always). Even so, it is possible to make measurements, in any part of the body, to measure radiation that is happening around both persons. For those who refuse, you have the option of taking measurements on yourself, and if you detect any abnormal values, the first step is to move away from the person you are with to a safe distance. You then need to send measurements made in a complaint to the proper authorities, classify it as "electromagnetic bioterrorism" and add the GPS location, date, and time of the invisible aggression.
-
-Finally, one way to automate detection and monitoring attacks of EMF or EMP nature is to install a video surveillance camera (sold on AliExpress: https://s.click.aliexpress.com/e/_DEmfjtt) capable of recording at high speed and only in the UV range. Electromagnetic explosions or just electric arcs usually release UV light that a camera with such characteristics can capture and record both in space and time that can be later used as a complaint to the authorities. 
+[continue reading here](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki/When-someone-is-involved-in-some-kind-of-EMF...)...
 
 ### Knonw symptoms of a wireless aggression
-**Thermo and hygrometer imbalances**
-- Extreme localized muscle tension
-- Extremely localized muscle relaxation
-  
-Thermo and hygrometer imbalances require immediate wear of protective clothes regardless of weather or season. in particular, wearing a winter polar jacket (impermeable) during all times the aggression is happening and until the victim's body starts to be hot and comfortable to the point of showing a pink face.  The author recommends one from the "North Face" brand or with equal thermal and hygrometic properties. 
-
-**Tinnitus and Insomnias** <br>
-Tinnitus is the term for hearing sounds that come from inside your body, rather than from an outside source. It's often described as “ringing in the ears”, although several sounds can be heard, including buzzing. humming. grinding. It’s often described as “ringing in the ears”, although several sounds can be heard, including:
-- buzzing
-- humming
-- grinding
-- hissing
-- whistling
-
-Some people may hear sounds similar to music or singing, and others hear noises that beat in time with their pulse (pulsatile tinnitus). You can [read more on Wikipedia](https://en.wikipedia.org/wiki/Tinnitus). In summary, every time one listens to a sound caused by electricity in the air,  if you're inside a building it means someone or some device is throwing electricity at you. An example of it is what is known as [tinnitus](https://simple.wikipedia.org/wiki/Tinnitus). 
-
-Tinnitus and insomnias require immediate correction of [circadian rhythms](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx) in the victim.  Changes in the circadian rhythms due to tinnitus and insomnias cause thermo and hygrometer imbalances and therefore require immediate wear of protective clothes regardless of weather or season. in particular, wearing a winter polar jacket (impermeable) during all times the aggression is happening and until the victim's body starts to be hot and comfortable to the point of showing a pink face and also when all sleep cycles are resynchronized, usually after a good and restful nap. The author recommends one from the "North Face" brand or with equal thermal and hygrometric properties. <br>
+[Continue reading here](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki/Knonw-symptoms-of-a-wireless-aggression)....
+<br>
 
 ### Where to complaint, where to report
 If you are a Portuguese citizen can raise a complaint on the [Portuguese army website](https://canaldadenuncia.exercito.pt/?nav=pBeIW7qH). 
 
 ### Complementary medicines are known to assist treatment and cure of these kinds of health-related problems
-- [Tai Ji Chuan](https://en.wikipedia.org/wiki/Tai_chi)
-- [Acupunture](https://en.wikipedia.org/wiki/Acupuncture)
-- [Reiki Therapy](https://en.wikipedia.org/wiki/Reiki)
-
-See below a list of useful links for more information. <br>
-Stay safe.
+[continue reading here](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki/Complementary-medicines-are-known-to-assist-treatment-and-cure-of-these-kinds-of-health‐related-problems)
 
 <br>
 
@@ -288,33 +261,7 @@ The accuracy of the smartwatch is not the most important requirement. What is im
 
 ### Useful links 
 Below is a list of links with useful information about these kinds of abusive and many times criminal and terrorist usages.
-
-**Exposure limits * Electric and magnetic fields in daily life * Regulation and control * Research and recommendations** <br>
-Alternating fields with an extremely low frequency generate an electric current in the body. If the alternating fields are strong enough, this generated current can disrupt the functioning of nerves and muscles in the body and cause flashes of light in the field of vision. According to the recommendation of the Council 1999/519/EC, the following threshold values must not be exceeded by the fields so that these effects do not occur:
-- for the electric field, the limit is 5 kilovolts per meter (5000 V/m or 5 kV/m);
-- for the magnetic field, the limit is 100 microtesla (100 µT).
-
-**Want to know more?**
-- www.bbemg.ulg.ac.be (Belgian BioElectroMagnetic Group)
-- www.milieurapport.be (research reports about the high-voltage network)
-- www.who.int/peh-emf/en (World Health Organisation - electromagnetic fields)
-- www.health.fgov.be/CSS_HGR (advice and recommendations of the Superior Health Council)
-
-View the official PDF document:<br>
-https://www.health.belgium.be/sites/default/files/uploads/fields/fpshealth_theme_file/19104217/Infofiche%20Electriciteit%20en%20gezondheid_EN_definitieve%20versie.pdf 
-  
-<br>
-
-**US National Library** <br>
-["Possible Effects of Radiofrequency Electromagnetic Field Exposure on Central Nerve System"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6513191/#:~:text=Neurological%20cognitive%20disorders%2C%20such%20as,et%20al.%2C%202007)
-<p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home%20Automation%20Safety%20%26%20Health/media/emf_head_paper.jpeg" height="300">
-</p>
-
-<br>
-
-**Journal of NeuroEngineering and Rehabilitation** <br>
-["Neuron matters: neuromodulation with electromagnetic stimulation must consider neurons as dynamic identities"](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-022-01094-4)
+[continue reading ...](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki/Useful-Links)
 
 <br />
 <br />
