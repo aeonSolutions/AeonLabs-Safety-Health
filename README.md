@@ -72,7 +72,7 @@ The smart safety & health solutions available below, are for the kind of wireles
 
 ### Sponsors
 Most recent sponsorships made for this project were made by:
-- [Maria Jesus Amorim](https://www.facebook.com/mariajesus.amorim) with a sponsorship of 800€.
+- [Maria Jesus Amorim](https://www.facebook.com/mariajesus.amorim) with a sponsorship of 1300€.
 - [Bernardino Pereira da Silva](https://www.facebook.com/bernardino.silva.9883) e [Maria Cecilia Fonseca Pinto](https://www.facebook.com/profile.php?id=100054375758029) with a sponsorship of 550€.
 
 in return were given support and assistance on all things wireless related to abusive usages and even criminous and terrorist types of activities, in particular electromagnetic (radio frequency, etc, ..) and photonic (lasers, LED, etc..). 
