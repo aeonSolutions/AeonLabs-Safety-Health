@@ -109,12 +109,12 @@ In a simplistic way, whenever someone denies or refuses to talk about any type o
 <br>
 
 ### Where to complaint, where to report
-If you are a Portuguese citizen can raise a complaint on the [Portuguese army website](https://canaldadenuncia.exercito.pt/?nav=pBeIW7qH). 
+If you are a Portuguese citizen, you can raise a complaint on the [Portuguese army website](https://canaldadenuncia.exercito.pt/?nav=pBeIW7qH). 
 
 <br>
 
 ### Complementary medicines 
-Complementary medicines known to assist treatment and cure of these kinds of health-related problems
+Complementary medicines are known to assist in the treatment and cure of these kinds of health-related problems
 
 [continue reading here](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki/Complementary-medicines-are-known-to-assist-treatment-and-cure-of-these-kinds-of-health‐related-problems)
 
@@ -124,6 +124,9 @@ Complementary medicines known to assist treatment and cure of these kinds of hea
 (list of open hardware devices I prototyped to this date)
 
 ## On any room in a building
+### [Smart Corona Discharge Detector]()
+
+<br>
 
 ### ✓ 🟢 [Smart EMF Shield Curtain for Windows and Balconies](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies)
 <sup> **status: <a href="https://en.wikipedia.org/wiki/Minimum_viable_product">M.V.P.</a>** NOW SELLING on <a href="tindie.com/stores/aeonlabs/">Tindie.com</a>  </sup> <br>
