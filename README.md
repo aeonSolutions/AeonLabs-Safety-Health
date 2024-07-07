@@ -71,7 +71,7 @@ The smart safety & health solutions available below, are for the kind of wireles
 <br>
 
 ### Sponsors
-Most recent sponsorships made for this project were made by:
+Most recent sponsorships to this project were made by:
 - [Maria Jesus Amorim](https://www.facebook.com/mariajesus.amorim) with a sponsorship of 1300€. <br> She will receive a "Smart Corona Discharge Detector" to install in her home.
 - [Bernardino Pereira da Silva](https://www.facebook.com/bernardino.silva.9883) e [Maria Cecilia Fonseca Pinto](https://www.facebook.com/profile.php?id=100054375758029) with a sponsorship of 550€.
 
