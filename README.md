@@ -93,7 +93,7 @@ Did you like any of my PCB KiCad Designs? Help and Support my open work by becom
 ## How to proceed
 If you are certain some kind of wireless aggression causes your health-related problem, the first thing you need to do is to seek a wireless communications expert or engineer and ask him/her to audit your home, workplace (or another place you find it to be the root cause) to setup measurement devices (more than 2), for electromagnetic radiation detection (or other, for instance, photonics, also known as lasers) and do active monitoring 24/7. The monitoring setup needs to be able to do sensor data measurement uploads to an experimental data repository (see Table 1 above). At the same time is a mandatory requirement to notify authorities and include the web address link where sensor data is being uploaded and stored.
 
-⚠️ **Only after you have those data measurements is advised to go to a conventional medical doctor/medicine.**
+⚠️ **Only after you have the data measurements is advised to go to a conventional medical doctor/medicine.**
 
 <br>
 
