@@ -94,7 +94,11 @@ Did you like any of my PCB KiCad Designs? Help and Support my open work by becom
 If you are certain some kind of wireless aggression causes your health-related problem, the first thing you need to do is to seek a wireless communications expert or engineer and ask him/her to audit your home, workplace (or another place you find it to be the root cause) to setup measurement devices (more than 2), for electromagnetic radiation detection (or other, for instance, photonics, also known as lasers) and do active monitoring 24/7. The monitoring setup needs to be able to do sensor data measurement uploads to an experimental data repository (see Table 1 above). At the same time is a mandatory requirement to notify authorities and include the web address link where sensor data is being uploaded and stored.
 
 ⚠️ **Only after you have the data measurements is advised to go to a conventional medical doctor/medicine.** <br>
-⚠️ **In case of imminent danger the first thing to do is to comment, make a photo / video and publish online, publicly accessible, where your network and friends is able to see and help you**
+⚠️ **In case of imminent danger the first thing to do is to comment, make a photo/video, and publish it online, publicly accessible, where your network and friends is able to see and help you** <br>
+Finally, <br>
+⚠️ **I strongly recommend and advise having a Facebook page, to Log any case of aggression or personal damage made to one's body**,  
+set up with minimum access to other profiles and limited to close/trustworthy network connections, for instance, family and friends, to enable automated and real-time analysis for near real-time identification of this type of wireless aggression at a distance, made by authorities and third-party unknown organizations and individuals, so the aggression and the aggressor can be identified in the shortest amount of time possible, preferably in the order of milliseconds.  Stay safe. 
+
 <br>
 
 ### When someone is involved in some kind of EMF...
