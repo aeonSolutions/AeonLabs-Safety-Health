@@ -56,8 +56,13 @@ Simply, because the victim is not capable of turning off the devices that attack
 What happens when the detector is the body of a person or animal?
 
 <p align="center">
-   <img height="200px" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home%20Automation%20Safety%20%26%20Health/media/electroboom.jpg"> <br>
- <a href="https://www.youtube.com/@ElectroBOOM" >view on Youtube the videos by Electroboom</a>
+   <a href="https://www.youtube.com/@ElectroBOOM"> 
+      <img height="200px" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home%20Automation%20Safety%20%26%20Health/media/electroboom.jpg"> 
+   </a>
+   <a href="https://www.youtube.com/@PlasmaChannel">
+   <img height="200" src="https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/media/plasma_channel.jpg">
+   </a> <br>
+ >view on YouTube the videos by Electroboom (to the left) and on the Plasma Channel (to the right)
 </p>
 
 <br>
