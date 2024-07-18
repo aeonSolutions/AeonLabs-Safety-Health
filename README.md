@@ -62,7 +62,7 @@ What happens when the detector is the body of a person or animal?
    <a href="https://www.youtube.com/@PlasmaChannel">
    <img height="200" src="https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/media/plasma_channel.jpg">
    </a> <br>
- >view on YouTube the videos by Electroboom (to the left) and on the Plasma Channel (to the right)
+ View on YouTube the videos by Electroboom (to the left) and on the Plasma Channel (to the right)
 </p>
 
 <br>
