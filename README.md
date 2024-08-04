@@ -129,8 +129,8 @@ Complementary medicines are known to assist in the treatment and cure of these k
 
 <br>
 
-# Home Automation Safety & Health
-(list of open hardware devices I prototyped to this date)
+# Open Hardware Devices 
+List of open hardware devices I prototyped to this date.
 
 ## On any room in a building
 ### [Smart Corona Discharge Detector](https://github.com/aeonSolutions/AeonLabs-Safety-Health-Smart-Corona-Discharge-Detector)
