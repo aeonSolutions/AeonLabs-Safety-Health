@@ -44,33 +44,6 @@ Learn more about **Sponsorware** at [https://github.com/aeonSolutions/sponsorwar
     </a>
 </p>
 
-# Safety &amp; Health
-[where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
-
-<br>
-
-"...in the United States, 40,000 women die from breast cancer each year.... "
-
-There are 40,000 women who are persecuted and attacked per year with some device or contraption that causes the medical condition known as "cancer". Worse, many medical treatments are the main reason for death.
-
-Simply, because the victim is not capable of turning off the devices that attack him/her repetitively and recurrently. All because the victim does not have a device capable of detecting and monitoring this type of invisible and wireless aggression. And as if it weren't enough, it's a mandatory condition, to have some daily record, a #LogBook, a #history of occurrences of this type of aggression, capable of serving as evidence, preferably one that can be used in "real-time" and remotely by authorities and law enforcement. 
-
-What happens when the detector is the body of a person or animal?
-
-<p align="center">
-   <a href="https://www.youtube.com/@ElectroBOOM"> 
-      <img height="200px" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home%20Automation%20Safety%20%26%20Health/media/electroboom.jpg"> 
-   </a>
-   <a href="https://www.youtube.com/@PlasmaChannel">
-   <img height="200" src="https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/media/plasma_channel.jpg">
-   </a> <br>
- View on YouTube the videos by Electroboom (to the left) and on the Plasma Channel (to the right)
-</p>
-
-<br>
-
-
-
 ### Sponsors
 Most recent sponsorships to this project were made by:
 - [Maria Jesus Amorim](https://www.facebook.com/mariajesus.amorim) with a sponsorship of 1300€. <br> She will receive a "Smart Corona Discharge Detector" to install in her home.
@@ -92,7 +65,10 @@ Did you like any of my PCB KiCad Designs? Help and Support my open work by becom
 <br>
 
 # Open Hardware Devices 
-List of open hardware devices I prototyped to this date.
+<sup> List of open hardware devices I prototyped to this date. </sup>
+
+[where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
+
 
 ## On any room in a building
 ### [Smart Corona Discharge Detector](https://github.com/aeonSolutions/AeonLabs-Safety-Health-Smart-Corona-Discharge-Detector)
