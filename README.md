@@ -67,13 +67,7 @@ What happens when the detector is the body of a person or animal?
 
 <br>
 
-## ⚠️ Safety usage of the smart devices provided below ⚠️
 
-The smart safety & health solutions available below, are for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, WIFI routers at home, and many more. (except those with directional beam forming technologies). This type of aggression has the characteristic to happen only during short periods of time, in the order of milliseconds or less regardless of electromagnetic radiation conditions and threshold limits of wireless networks.  
-
-[Continue reading ...](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki/Safety-usage-of-the-smart-devices-provided)
-
-<br>
 
 ### Sponsors
 Most recent sponsorships to this project were made by:
@@ -92,40 +86,6 @@ Did you like any of my PCB KiCad Designs? Help and Support my open work by becom
         <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
     </a>
 </p>
-
-<br>
-
-## How to proceed
-If you are certain some kind of wireless aggression causes your health-related problem, the first thing you need to do is to seek a wireless communications expert or engineer and ask him/her to audit your home, workplace (or another place you find it to be the root cause) to setup measurement devices (more than 2), for electromagnetic radiation detection (or other, for instance, photonics, also known as lasers) and do active monitoring 24/7. The monitoring setup needs to be able to do sensor data measurement uploads to an experimental data repository (see Table 1 above). At the same time is a mandatory requirement to notify authorities and include the web address link where sensor data is being uploaded and stored.
-
-⚠️ **Only after you have the data measurements is advised to go to a conventional medical doctor/medicine.** <br>
-⚠️ **In case of imminent danger the first thing to do is to comment, make a photo/video, and publish it online, publicly accessible, where your network and friends is able to see and help you** <br>
-Finally, <br>
-⚠️ **I strongly recommend and advise having a Facebook page, to Log any case of aggression or personal damage made to one's body**,  
-set up with minimum access to other profiles and limited to close/trustworthy network connections, for instance, family and friends, to enable automated and real-time analysis for near real-time identification of this type of wireless aggression at a distance, made by authorities and third-party unknown organizations and individuals, so the aggression and the aggressor can be identified in the shortest amount of time possible, preferably in the order of milliseconds.  Stay safe. 
-
-<br>
-
-### When someone is involved in some kind of EMF...
-In a simplistic way, whenever someone denies or refuses to talk about any type of distant neurosensory aggression it is because...
-[continue reading here](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki/When-someone-is-involved-in-some-kind-of-EMF...)...
-
-<br>
-
-### Knonw symptoms of a wireless aggression
-[Continue reading here](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki/Knonw-symptoms-of-a-wireless-aggression)....
-
-<br>
-
-### Where to complaint, where to report
-If you are a Portuguese citizen, you can raise a complaint on the [Portuguese army website](https://canaldadenuncia.exercito.pt/?nav=pBeIW7qH). 
-
-<br>
-
-### Complementary medicines 
-Complementary medicines are known to assist in the treatment and cure of these kinds of health-related problems
-
-[continue reading here](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki/Complementary-medicines-are-known-to-assist-treatment-and-cure-of-these-kinds-of-health‐related-problems)
 
 <br>
 
