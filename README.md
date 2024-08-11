@@ -69,7 +69,7 @@ Did you like any of my PCB KiCad Designs? Help and Support my open work by becom
 
 [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
 
-## Wearlables
+## Wearables
 ### ⌛ [Carbon Fiber EMF Protection Helmet](https://github.com/aeonSolutions/Aeonlabs-Carbon-Fiber-EMF-Protection-Helmet) 
 The helmet Magneto uses is made of an ultra-high strength carbon fiber composite ( see X-Men movies) ..... however, to function properly and stop the "voices" of Charles Xavier, there's a piece of electronics missing. An extreme-low-power energy harvester device. Buy a rigid carbon fiber helmet on AliExpress [here](https://s.click.aliexpress.com/e/_DCsIVkJ)
 
