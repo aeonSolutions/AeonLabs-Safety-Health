@@ -69,9 +69,19 @@ Did you like any of my PCB KiCad Designs? Help and Support my open work by becom
 
 [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
 
+## Wearlables
+### ⌛ [Carbon Fiber EMF Protection Helmet](https://github.com/aeonSolutions/Aeonlabs-Carbon-Fiber-EMF-Protection-Helmet) 
+The helmet Magneto uses is made of an ultra-high strength carbon fiber composite ( see X-Men movies) ..... however, to function properly and stop the "voices" of Charles Xavier, there's a piece of electronics missing. An extreme-low-power energy harvester device. Buy a rigid carbon fiber helmet on AliExpress [here](https://s.click.aliexpress.com/e/_DCsIVkJ)
+
+<p align="center">
+    <img height="150" src="https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/media/rigid_carbon_fiber_helmet.jpg">
+</p>
+
+<br>
 
 ## On any room in a building
-### [Smart Corona Discharge Detector](https://github.com/aeonSolutions/AeonLabs-Safety-Health-Smart-Corona-Discharge-Detector)
+### ⌛ [Smart Corona Discharge Detector](https://github.com/aeonSolutions/AeonLabs-Safety-Health-Smart-Corona-Discharge-Detector)
+soon ! come back later. 
 
 <br>
 
@@ -105,12 +115,7 @@ This smart device is intended to be installed and fixed into a copper electromag
   </a>
 </p>
 
-### [Carbon Fiber EMF Protection Helmet](https://github.com/aeonSolutions/Aeonlabs-Carbon-Fiber-EMF-Protection-Helmet) 
-The helmet Magneto uses is made of an ultra-high strength carbon fiber composite ( see X-Men movies) ..... however, to function properly and stop the "voices" of Charles Xavier, there's a piece of electronics missing. An extreme-low-power energy harvester device. Buy a rigid carbon fiber helmet on AliExpress [here](https://s.click.aliexpress.com/e/_DCsIVkJ)
-
-<p align="center">
-    <img height="150" src="https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/media/rigid_carbon_fiber_helmet.jpg">
-</p>
+<br>
 
 ### [Smart Indoor Environment EM RF Energy Monitor](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environment-EM-RF-Energy-Monitor)
   
