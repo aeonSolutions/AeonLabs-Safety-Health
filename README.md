@@ -105,7 +105,7 @@ This smart device is intended to be installed and fixed into a copper electromag
   </a>
 </p>
 
-### [Carbon Fiber EMF Protection Helmet]() (soon !)
+### [Carbon Fiber EMF Protection Helmet](https://github.com/aeonSolutions/Aeonlabs-Carbon-Fiber-EMF-Protection-Helmet) 
 The helmet Magneto uses is made of an ultra-high strength carbon fiber composite ( see X-Men movies) ..... however, to function properly and stop the "voices" of Charles Xavier, there's a piece of electronics missing. An extreme-low-power energy harvester device. Buy a rigid carbon fiber helmet on AliExpress [here](https://s.click.aliexpress.com/e/_DCsIVkJ)
 
 <p align="center">
