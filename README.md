@@ -86,7 +86,7 @@ soon! come back later.
 
 <br>
 
-### ✓ 🟢 [Smart EMF Shield Curtain for Windows and Balconies](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies)
+### ✓ 🟢 [Smart EMF Shield Curtain for Windows and Balconies](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/README.md#contribute-to-open-hardware-)
 <sup> **status: <a href="https://en.wikipedia.org/wiki/Minimum_viable_product">M.V.P.</a>** NOW SELLING on <a href="tindie.com/stores/aeonlabs/">Tindie.com</a>  </sup> <br>
 
 This smart device is intended to be installed and fixed into a copper electromagnetic (EM) shield on any EM indoor window or balcony door. It has the main ability to collect EM sensor data from the curtain itself and send it to a public data repository, for instance, a #dataverse (see www.dataverse.org)
@@ -98,7 +98,7 @@ This smart device is intended to be installed and fixed into a copper electromag
 
 <br>
 
-### ✓ 🟢 [Pillowcase EMF Protection for Better Health & Sleep](https://github.com/aeonSolutions/AeonLabs-Home-Auitomation-Pillowcase-EMF-Protection-for-Better-Health-Sleep)
+### ✓ 🟢 [Pillowcase EMF Protection for Better Health & Sleep](https://github.com/aeonSolutions/AeonLabs-Home-Auitomation-Pillowcase-EMF-Protection-for-Better-Health-Sleep) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/README.md#contribute-to-open-hardware-)
 
 <p align="center">
     <img height="150" src="https://github.com/aeonSolutions/AeonLabs-Home-Auitomation-Pillowcase-EMF-Protection-for-Better-Health-Sleep/blob/main/media/radiation_pillow.png">
@@ -107,7 +107,7 @@ This smart device is intended to be installed and fixed into a copper electromag
 <br>
 
 
- ### ✓ 🟢 [Bed sheet EMF Protection for Better Health & Sleep](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Bed-Sheet-EMF-Protection-for-Better-Health-Sleep/tree/main)
+ ### ✓ 🟢 [Bed sheet EMF Protection for Better Health & Sleep](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Bed-Sheet-EMF-Protection-for-Better-Health-Sleep/tree/main) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/README.md#contribute-to-open-hardware-)
 
 <p align="center">
   <a href="https://s.click.aliexpress.com/e/_Dexysod" target="_blank">
