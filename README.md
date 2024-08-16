@@ -70,7 +70,7 @@ Did you like any of my PCB KiCad Designs? Help and Support my open work by becom
 [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
 
 ## Wearables
-### ⌛ [Carbon Fiber EMF Protection Helmet](https://github.com/aeonSolutions/Aeonlabs-Carbon-Fiber-EMF-Protection-Helmet) 
+### ⌛ [Carbon Fiber EMF Protection Helmet](https://github.com/aeonSolutions/Aeonlabs-Carbon-Fiber-EMF-Protection-Helmet)  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/README.md#contribute-to-open-hardware-)
 The helmet Magneto uses is made of an ultra-high strength carbon fiber composite ( see X-Men movies) ..... however, to function properly and stop the "voices" of Charles Xavier, there's a piece of electronics missing. An extreme-low-power energy harvester device. Buy a rigid carbon fiber helmet on AliExpress [here](https://s.click.aliexpress.com/e/_DCsIVkJ)
 
 <p align="center">
@@ -80,9 +80,9 @@ The helmet Magneto uses is made of an ultra-high strength carbon fiber composite
 <br>
 
 ## On any room in a building
-### ⌛ [Smart Corona Discharge Detector](https://github.com/aeonSolutions/AeonLabs-Safety-Health-Smart-Corona-Discharge-Detector) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+### ⌛ [Smart Corona Discharge Detector](https://github.com/aeonSolutions/AeonLabs-Safety-Health-Smart-Corona-Discharge-Detector) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/README.md#contribute-to-open-hardware-)
 
-soon ! come back later. 
+soon! come back later. 
 
 <br>
 
@@ -118,14 +118,14 @@ This smart device is intended to be installed and fixed into a copper electromag
 
 <br>
 
-### 🟡 [Smart Indoor Environment EM RF Energy Monitor](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environment-EM-RF-Energy-Monitor) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+### 🟡 [Smart Indoor Environment EM RF Energy Monitor](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environment-EM-RF-Energy-Monitor) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/README.md#contribute-to-open-hardware-)
 
   
   This Smart Indoor Environment EM RF Energy Monitor does not solve the electromagnetic health concern one may have indoors. However, is a step forward in correctly identifying such electromagnetic disturbances nearby, for instance, when observing recurrently a mid-air energy spike, with the most common visual effect, a really small bright light flash. This smart device is able to do electromagnetic (EM) radio frequency (RF) measurements in a room and send data measurements to a local home server, alternatively to a public cloud server (for instance, to the authorities). Another important characteristic of this smart device is the ability to deliver data to a server with a Unique Data Fingerprint Identification (UDF-ID),  which makes collected data more trustworthy of its origins.
   
 <br>
 
-### 🟡 [Smart Indoor Environment GSM 4G Cell Tower Identification](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environement-GSM-4G-Cell-Tower-Identification) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+### 🟡 [Smart Indoor Environment GSM 4G Cell Tower Identification](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environement-GSM-4G-Cell-Tower-Identification) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/README.md#contribute-to-open-hardware-)
 
   
   This Smart Indoor Env. GSM Cell Tower Monitor is built to do active monitoring of GSM Cell Towers nearby to look for any kind of hidden GSM/4G device repeater. Known to be used for stealing one's GSM communications data using some kind of Man-in-the-middle attack. This smart device is able to do GSM/4G radio frequency (RF) measurements in a room and send data measurements to a local home server, alternatively to a public cloud server (for instance, to the authorities). Another important characteristic of this smart device is the ability to deliver data to a server with a Unique Data Fingerprint Identification (UDF-ID), which makes collected data more trustworthy of its origins.
@@ -133,12 +133,12 @@ This smart device is intended to be installed and fixed into a copper electromag
 <br>
 
 ## Indoor Plants
-  ### 🟡 [Indoor Smart Plant Watering with builtin microwave LED Jammer](https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+  ### 🟡 [Indoor Smart Plant Watering with built-in microwave LED Jammer](https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/README.md#contribute-to-open-hardware-)
 
   
 This Smart Indoor plant monitoring and watering is designed to be inserted into any indoor plant vase. Is able to measure and calculate the moisture content in the vase, and when detects low water contents, activates the water pump. Is able to connect to a local home server to upload indoor temperature, humidity, and air quality measurement data. This way, the owner, can have a history record database, without the need for expensive cloud subscriptions.  Additionally, it features a 6 LED system composed of an ultraviolet LED, an Infrared LED and an RGB LED, when combined with multiple devices like this one in the same room is able to perform some basic light aggression protection from an unknown light source outside during the night & day. 
 
-  ### 🟡 [Indoor Smart Plant Watering , EMF & Sound deterctor RGB UV IR LED](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Smart-Plant-Watering-and-active-monitoring-of-Electromagnetic-Fields) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+  ### 🟡 [Indoor Smart Plant Watering , EMF & Sound deterctor RGB UV IR LED](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Smart-Plant-Watering-and-active-monitoring-of-Electromagnetic-Fields) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/README.md#contribute-to-open-hardware-)
 
 
   
