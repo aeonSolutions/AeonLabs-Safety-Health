@@ -27,7 +27,7 @@ Last update: 16-08-2024
 
 ⚠️ **Start by reading the documentation first**. [Click here to open it](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki) 
 
-## Contribute to Open Hardware 💰💰💰
+## Contribute to this Project 💰💰💰
 The optimized design files for each of the hardware electronics listed are only available to my sponsors on GitHub Sponsors.
 It features many PCB optimizations such as much more energy efficiency and much less EMI  on the boards. This means, for instance, much better hardware performance and lasting battery life. 
 
