@@ -28,6 +28,24 @@ Last update: 16-08-2024
 
 ⚠️ **Start by reading the documentation first**. [Click here to open it](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki) 
 
+## Open Hardware Devices
+To facilitate the deployment of open smart devices capable of measuring "electromagnetic activity" in the surrounding environment, indoors or outdoors, this repository includes the KiCad project files to expedite prototyping by DIY hobbyists and Makers. There's also the option to buy at a reduced, fair price on my [tindie.com store](tindie.com/stores/aeonlabs/) price starts at around 50 eur.
+
+To view a list of open hardware electronics, cost-free, and available for anyone to download and use on their projects, [click here](https://github.com/aeonSolutions/AeonLabs-Safety-Health)
+
+## Send the collected sensor data to this repository
+On this repository, there's a special folder, named [datasets](https://github.com/aeonSolutions/AeonLabs-Safety-Health/tree/main/Measurements/datasets), where anyone is able to upload dataset files directly from their open smart devices. This folder is intended to facilitate sharing of "electromagnetic" measurements among anyone with interest and capable of studying and analyzing it in search of EM anomalies to improve detection of the open hardware electronics made available here. **Anyone is invited to participate, cost-free**. <br>
+&nbsp;&nbsp; To assist you with the firmware programming, there's a C++ test code compatible with all Arduino devices that anyone can use to speed up the programming of the open smart device. Here's the link: <br>
+https://github.com/aeonSolutions/Aeonlabs-Arduino_Hardware_Test_Code/tree/main/github_api_test_upload <br>
+Any questions on how to do it, send me a message on the Discord Server:
+
+<div align="center">
+
+[![](https://dcbadge.vercel.app/api/server/hw3j3RwfJf) ](https://discord.gg/hw3j3RwfJf)
+
+</div>
+
+
 ## Contribute to this Project 💰💰💰
 The optimized design files for each of the hardware electronics listed are only available to my sponsors on GitHub Sponsors.
 It features many PCB optimizations such as much more energy efficiency and much less EMI  on the boards. This means, for instance, much better hardware performance and lasting battery life. 
