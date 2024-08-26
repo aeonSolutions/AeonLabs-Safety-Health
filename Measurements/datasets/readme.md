@@ -47,3 +47,8 @@ Learn more about **Sponsorware** at [https://github.com/aeonSolutions/sponsorwar
 
 ### Datasets
 This folder contains the dataset files uploaded by open smart devices capable of monitoring 24h\7 electromagnetic activity in the surrounding environment. 
+
+This is a special folder where anyone is able to upload dataset files directly from their open smart devices. This folder is intended to facilitate sharing of "electromagnetic" measurements among anyone with interest and capable of studying and analyzing it in search of EM anomalies to improve detection of the open hardware electronics made available here. **Anyone is invited to participate, cost-free**. <br>
+
+&nbsp;&nbsp; To assist you with the firmware programming, there's a C++ test code compatible with all Arduino devices that anyone can use to speed up the programming of the open smart device. Here's the link: <br>
+https://github.com/aeonSolutions/Aeonlabs-Arduino_Hardware_Test_Code/tree/main/github_api_test_upload
