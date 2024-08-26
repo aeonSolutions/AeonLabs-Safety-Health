@@ -44,3 +44,6 @@ Learn more about **Sponsorware** at [https://github.com/aeonSolutions/sponsorwar
         <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
     </a>
 </p>
+
+### Datasets
+This folder contains the dataset files uploaded by open smart devices capable of monitoring 24h\7 electromagnetic activity in the surrounding environment. 
