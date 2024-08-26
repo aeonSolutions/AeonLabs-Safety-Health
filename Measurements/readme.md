@@ -45,3 +45,5 @@ Learn more about **Sponsorware** at [https://github.com/aeonSolutions/sponsorwar
     </a>
 </p>
 
+### Datasets
+The datasets folder contains the dataset files uploaded by open smart devices capable of monitoring 24h\7 electromagnetic activity in the surrounding environment. 
