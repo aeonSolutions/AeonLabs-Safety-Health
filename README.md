@@ -45,30 +45,13 @@ Any questions on how to do it, send me a message on the Discord Server:
 
 </div>
 
-
 ## Total Cost of this Project
-The total cost of this project to date is listed below:
-- Work hours dedicated to this project: >480 w.h <br>
-  This includes research and study about Bio EM RF, building this repository, and other useless miscellaneous online tasks. <br>
-  hardware electronics assembly and testing, several times.
-- Electronic components  >500 eur
-- Other materials ~140 eur
-
-<p align="center">
-    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
-        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
-    </a>
-    <a href="https://github.com/sponsors/aeonSolutions">
-        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
-    </a>
-</p>
+The total cost of this project can be found on the link below: <br>
+https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki#total-cost-of-this-project
 
 ### Sponsors
-Most recent sponsorships to this project were made by:
-- [Maria Jesus Amorim](https://www.facebook.com/mariajesus.amorim) with a sponsorship of 1300€. <br> She will receive a "Smart Corona Discharge Detector" to install in her home.
-- [Bernardino Pereira da Silva](https://www.facebook.com/bernardino.silva.9883) e [Maria Cecilia Fonseca Pinto](https://www.facebook.com/profile.php?id=100054375758029) with a sponsorship of 550€.
-
-in return were given support and assistance on all things wireless related to abusive usages and even criminous and terrorist types of activities, in particular electromagnetic (radio frequency, etc, ..) and photonic (lasers, LED, etc..). 
+Most recent sponsorships to this project can be found on the link below: <br>
+https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki#total-cost-of-this-project
 
 # Open Hardware Devices 
 <sup> List of open hardware devices I prototyped to this date. </sup>
