@@ -31,7 +31,7 @@ Last update: 16-08-2024
 ## Open Hardware Devices
 To facilitate the deployment of open smart devices capable of measuring "electromagnetic activity" in the surrounding environment, indoors or outdoors, this repository includes the KiCad project files to expedite prototyping by DIY hobbyists and Makers. There's also the option to buy at a reduced, fair price on my [tindie.com store](tindie.com/stores/aeonlabs/) price starts at around 50 eur.
 
-To view a list of open hardware electronics, cost-free, and available for anyone to download and use on their projects, [click here](https://github.com/aeonSolutions/AeonLabs-Safety-Health)
+To view a list of open hardware electronics, cost-free, and available for anyone to download and use on their projects, navigate to the bottom of this page. 
 
 ## Send the collected sensor data to this repository
 On this repository, there's a special folder, named [datasets](https://github.com/aeonSolutions/AeonLabs-Safety-Health/tree/main/Measurements/datasets), where anyone is able to upload dataset files directly from their open smart devices. This folder is intended to facilitate sharing of "electromagnetic" measurements among anyone with interest and capable of studying and analyzing it in search of EM anomalies to improve detection of the open hardware electronics made available here. **Anyone is invited to participate, cost-free**. <br>
