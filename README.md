@@ -70,19 +70,6 @@ Most recent sponsorships to this project were made by:
 
 in return were given support and assistance on all things wireless related to abusive usages and even criminous and terrorist types of activities, in particular electromagnetic (radio frequency, etc, ..) and photonic (lasers, LED, etc..). 
 
-Did you like any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
-
-<p align="center">
-    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
-        <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
-    </a>
-    <a href="https://github.com/sponsors/aeonSolutions">
-        <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
-    </a>
-</p>
-
-<br>
-
 # Open Hardware Devices 
 <sup> List of open hardware devices I prototyped to this date. </sup>
 
