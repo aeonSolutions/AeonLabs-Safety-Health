@@ -46,13 +46,13 @@ Any questions on how to do it, send me a message on the Discord Server:
 </div>
 
 
-## Contribute to this Project 💰💰💰
-The optimized design files for each of the hardware electronics listed are only available to my sponsors on GitHub Sponsors.
-It features many PCB optimizations such as much more energy efficiency and much less EMI  on the boards. This means, for instance, much better hardware performance and lasting battery life. 
-
-Enjoy, and thanks for the support! ❤️
-
-Learn more about **Sponsorware** at [https://github.com/aeonSolutions/sponsorware](https://github.com/aeonSolutions/sponsorware) 💰.
+## Total Cost of this Project
+The total cost of this project to date is listed below:
+- Work hours dedicated to this project: >480 w.h <br>
+  This includes research and study about Bio EM RF, building this repository, and other useless miscellaneous online tasks. <br>
+  hardware electronics assembly and testing, several times.
+- Electronic components  >500 eur
+- Other materials ~140 eur
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
