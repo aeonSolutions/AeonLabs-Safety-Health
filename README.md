@@ -28,7 +28,7 @@ Last update: 07-09-2024
 
 ⚠️ **Start by reading the documentation first**. [Click here to open it](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki) 
 
-## Open Hardware Devices
+# Open Health
 To facilitate the deployment of open smart devices capable of measuring "electromagnetic activity" in the surrounding environment, indoors or outdoors, this repository includes the KiCad project files to expedite prototyping by DIY hobbyists and Makers. There's also the option to buy at a reduced, fair price on my [tindie.com store](tindie.com/stores/aeonlabs/) price starts at around 50 eur.
 
 To view a list of open hardware electronics, cost-free, and available for anyone to download and use on their projects, navigate to the bottom of this page. 
