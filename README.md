@@ -29,6 +29,8 @@ Last update: 07-09-2024
 ⚠️ **Start by reading the documentation first**. [Click here to open it](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki) 
 
 # Open Health
+Open Health refers to an emerging movement that promotes the sharing of healthcare data, resources, and research in an open and transparent manner. It emphasizes the idea that healthcare information, including clinical research, medical innovations, and patient data (with proper privacy safeguards), should be freely accessible to improve healthcare outcomes, foster innovation, and empower patients. By leveraging open health platforms and tools, stakeholders like patients, researchers, and healthcare providers can collaborate more effectively, accelerating the development of treatments and facilitating personalized care. The movement is grounded in principles of transparency, collaboration, and inclusivity, ultimately aiming to create a more equitable and efficient healthcare ecosystem. <sub> *Source: chatGPT.com* </dub>
+
 To facilitate the deployment of open smart devices capable of measuring "electromagnetic activity" in the surrounding environment, indoors or outdoors, this repository includes the KiCad project files to expedite prototyping by DIY hobbyists and Makers. There's also the option to buy at a reduced, fair price on my [tindie.com store](tindie.com/stores/aeonlabs/) price starts at around 50 eur.
 
 To view a list of open hardware electronics, cost-free, and available for anyone to download and use on their projects, navigate to the bottom of this page. 
