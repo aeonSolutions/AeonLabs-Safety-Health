@@ -70,7 +70,7 @@ TwoWire I2C_BUS(0);
 String filePath = "/dataset.csv";    
 
 // Base64 enconding
-#include "mbedtls/base64.h"
+#include <Base64.h>  
 
 // Local Time managemnent and NTP 
 #include "esp_sntp.h"
@@ -97,7 +97,7 @@ const char* password = "  ";
 
 // ------------------------------------------------------------------
 // GitHub credentials
-const char* githubToken = "   "; // Replace with your GitHub token
+const char* githubToken = "  "; // Replace with your GitHub token
 const char* githubUser = "aeonSolutions";              // Replace with your GitHub username
 const char* githubRepo = "AeonLabs-Safety-Health";                  // Replace with your GitHub repository
 const char* githubBranch = "main";  
@@ -671,38 +671,6 @@ bool createNewDatasetFile(String file_Path){
     }
   }
 }  // end createNewDatasetFile
-
-// -----------------------------------------------------------------------------------------------------
-String encodeBase64(uint8_t buffer[], size_t bytesRead){
-
-  unsigned int base64len = encode_base64_length(bytesRead);
-  log_I("base64 size = " + String( base64len ) );
-
-  unsigned char encodedContent[base64len];
-  
-  size_t output_size = 0;
-  // note input is consumed in this step: it will be empty afterwards
-  // Base64 encode the file content (GitHub API requires base64 encoded content)
-  // int err =  base64_encode(output, pBuffer, fileSize); 
-  int err = mbedtls_base64_encode(encodedContent, base64len, &output_size, buffer , bytesRead);
-  if (err != 0) {
-    switch(err){
-      case(-0x002A):
-        log_I("error base64 encoding, error " +String(err) + " buffer too small. Buff size: " + String(base64len) );
-        break;
-      case(-0x002C):
-        log_I("error base64 encoding, error " +String(err) + " invalid char. buff size: " + String(base64len) );
-        break;
-      default:
-        log_I("error base64 encoding, error " +String(err) + " unk err.  buff size: " + String(base64len) );
-        break;
-    }
-    BlinkLED(LED_GREEN, 5);  
-    return "-1";	
-  }
-
-return String( (char*)encodedContent);
-}  // end encodeBase64
 
 // --------------------------------------------------------------------------------------------------------------------------
  unsigned long encode_base64_length(unsigned long input_length) {
