@@ -259,10 +259,11 @@ void loop() {
     log_I("Starting upload....");
     // get the SHA of the base tree for the file
     String oldFileSHA = getFileSHA();
+    delay(1000);
    // PUSH the new updated file 
     String newfileSHA = uploadFileInChunks();
-
-    if (newfileSHA.length() <40 ){
+    delay(1000);
+    if ( blob_ok == true && newfileSHA.length() <40 ){
       log_I("Incorrect New File SHA Blob size (<40) \n PUSH to GitHub cannot continue.");
       blob_ok = false;
     }
@@ -271,8 +272,8 @@ void loop() {
     String parentSHA = "";
     if (blob_ok == true)
       parentSHA = getParents();
-
-    if (parentSHA.length() <40 ){
+    delay(1000);
+    if ( blob_ok == true && parentSHA.length() <40 ){
       log_I("Incorrect commit SHA Blob size (<40) \n PUSH to GitHub cannot continue.");
       blob_ok = false;
     }
@@ -282,10 +283,10 @@ void loop() {
     if (blob_ok == true)
       newTreeSHA = createTree(newfileSHA, parentSHA);
     
-    if (newTreeSHA.length() <40 ){
+    if ( blob_ok == true && newTreeSHA.length() <40 ){
       log_I("Incorrect New Tree SHA Blob size (<40) \n PUSH to GitHub cannot continue.");
       blob_ok = false;
-    }else if (parentSHA.length() <40 ){
+    }else if ( blob_ok == true && parentSHA.length() <40 ){
       log_I("Incorrect parent SHA Blob size (<40) \n PUSH to GitHub cannot continue.");
       blob_ok = false;
     }
@@ -294,8 +295,8 @@ void loop() {
     String commitSHA = "";
     if (blob_ok == true)
       commitSHA = createCommit(newTreeSHA, parentSHA);
-
-    if (newfileSHA.length() <40 ){
+    delay(1000);
+    if ( blob_ok == true && newfileSHA.length() <40 ){
       log_I("Incorrect commit SHA Blob size (<40) \n PUSH to GitHub cannot continue.");
       blob_ok = false;
     }
@@ -360,6 +361,7 @@ String uploadFileInChunks() {
   client.setInsecure();  // Use this only for testing; skips certificate verification
   if (client.connect(githubHost, 443) == false ) {
     log_I ("failed to connect to " + String(githubHost) );
+    return "-3";
   }
 
   String url = "/repos/" + String(githubUser) + "/" + String(githubRepo) + "/git/blobs";
@@ -409,7 +411,7 @@ String uploadFileInChunks() {
     temp += encodedChunk.length();
     mySerial.print(encodedChunk);
   }
-  mySerial.print(json_part_2);
+  mySerial.println(json_part_2);
 
   fileToSend.close();
   log_I("Content len sent: " + String(temp) );
@@ -524,15 +526,16 @@ String createCommit(String newTreeSHA, String parentSHA) {
     log_I("WIFI not available. skipping upload.");
     return "-2";
   }
+  WiFiClientSecure client;
 
-  HTTPClient http;
+  client.setInsecure();  // Use this only for testing; skips certificate verification
+  if (client.connect(githubHost, 443) == false ) {
+    log_I ("failed to connect to " + String(githubHost) );
+    return "-3";
+  }
+
   String url = "https://api.github.com/repos/" + String(githubUser) + "/" + String(githubRepo) + "/git/commits";
-  log_I("Requesting URL: " + url );
-
-  http.begin(url);
-  http.addHeader("Authorization", "Bearer " + String(githubToken));
-  http.addHeader("Content-Type", "application/json");
-  http.addHeader("User-Agent", "AeonSolutions");
+  log_I("POST URL: " + url );
 
   // Create commit payload
   String commitMessage = "Upload file to GitHub from Arduino";
@@ -542,29 +545,42 @@ String createCommit(String newTreeSHA, String parentSHA) {
                     "\"parents\": [\"" + parentSHA + "\"]"
                     "}";
 
-  log_I("Create Commit payload: " + payload);      
+  log_I("Create Commit payload: " + payload);    
 
-  int httpResponseCode = http.POST(payload);
+  // Send HTTP POST request to create blob
+  client.println("POST " + url + " HTTP/1.1");
+  client.println("Host: " + String(githubHost) );
+  client.println("Authorization: Bearer " + String(githubToken));
+  client.println("User-Agent: AeonSolutions");
+  client.println("Content-Type: application/json");
+  client.println("Connection: close");
+  client.print("Content-Length: ");
+  client.println( payload.length() );  // Calculate content length
+  client.print("\r\n");
+  client.print("\r\n");
+  client.print(payload);
+  client.print("\r\n");
 
-  if (httpResponseCode > 0) {
-    String response = http.getString();
-    http.end();
-
-    log_I("Commit creation response: " + response);
-
-    String newCommitSHA = extractSHA(response);
-
-    log_I("New Commit SHA blob: " + newCommitSHA);
-    if (newCommitSHA.length() <40 ){
-      log_I("Incorrect Blob size (<40)");
-      return "-6";
+  while (client.connected()) {
+    String line = client.readStringUntil('\n');
+    if (line == "\r") {
+      break;
     }
-    return newCommitSHA;
-  } else {
-    http.end();
-    log_I("Error creating commit: " + http.errorToString(httpResponseCode));
-    return "-4";
-  }  
+  }
+
+  // Read the response body
+  String responseBody = client.readString();
+  client.stop();
+
+  log_I("Commit creation response: " + responseBody);
+
+  String newCommitSHA = extractSHA(responseBody);
+  log_I("New Commit SHA blob: " + newCommitSHA);
+  if (newCommitSHA.length() <40 ){
+    log_I("Incorrect Push File Blob size (<40)");
+    return "-6";
+  }
+  return newCommitSHA;  
 }  // end createCommit
 
 // ------------------------------------------------------------------------------------------------------------------
