@@ -73,8 +73,12 @@ The helmet I bought has been delivered. In the upcoming weeks, I'll be designing
 
 ## On any room in a building
 ### ⌛ [Smart Corona Discharge Detector](https://github.com/aeonSolutions/AeonLabs-Safety-Health-Smart-Corona-Discharge-Detector) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/README.md#contribute-to-open-hardware-)
-
+A wall-mount smart device to actively monitor coronal activity indoors in a room. <br>
 soon! come back later. 
+
+<div align="center">
+  <img height="250" src="https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/media/wallmount_case.jpg">
+</div>
 
 <br>
 
